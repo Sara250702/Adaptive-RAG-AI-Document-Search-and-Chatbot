@@ -90,14 +90,14 @@ Adaptive-Rag/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-The main backend and frontend components are organized under `src/` and `streamlit_app/` respectively.
-
+The main backend and frontend components are organized under `src/` and `streamlit_app/` respectivel
+```
 ## Installation & Setup
 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/dhruvsinghal09/Adaptive-Rag.git
+git clone https://github.com/Sara250702/Adaptive-RAG-AI-Document-Search-and-Chatbo.git
 cd Adaptive-Rag
 
 ```
