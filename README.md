@@ -46,7 +46,7 @@ MongoDB stores the human and AI messages associated with each session; it does n
 
 ## Project Structure
 
-
+```text
 Adaptive-Rag/
 │
 ├── src/
@@ -90,7 +90,6 @@ Adaptive-Rag/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-
 The main backend and frontend components are organized under `src/` and `streamlit_app/` respectively.
 
 ## Installation & Setup
@@ -149,7 +148,6 @@ MONGO_URL=mongodb://localhost:27017
 | VariablePurpose   |                                                                                          |
 | ----------------- | ---------------------------------------------------------------------------------------- |
 | `MISTRAL_API_KEY` | Authentication for the Mistral LLM                                                       |
-                    |                                                                                          |
 | `TAVILY_API_KEY`  | Used when the query is routed to web search                                              |
 | `MONGO_URL`       | MongoDB connection configuration; local setup currently uses `mongodb://localhost:27017` |
 
