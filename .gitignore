@@ -7,3 +7,4 @@ description.txt
 .faiss/
 faiss_index/
 .idea/
+app.log
