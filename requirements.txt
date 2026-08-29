@@ -20,5 +20,6 @@ pymongo
 streamlit
 requests
 langchain-qdrant
-python-multipartlangchain-mistralai==0.2.12
+python-multipart
+langchain-mistralai==0.2.12
 pypdf
