@@ -46,6 +46,11 @@ MongoDB stores the human and AI messages associated with each session; it does n
 
 ## Project Structure
 
+
+=======
+## Project Structure
+
+
 ```text
 Adaptive-Rag/
 │
